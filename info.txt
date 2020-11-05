@@ -1,0 +1,8 @@
+Name: Paymaster Gateway UA;
+Parent Addon: user-balance;
+Version: 1.0.2;
+Support Core: 16.17.0;
+ItemID: 17502;
+Description: Подключение сайта к платежной системе Paymaster https://paymaster.ua/;
+Author: Плечёв Андрей;
+Author URI: http://codeseller.ru/;
